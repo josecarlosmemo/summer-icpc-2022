@@ -48,7 +48,7 @@
   	</ul>
   	</li>
   	<li>
-  	<a href="#good-practices-in-competitive-progrmamming">Good Practices in Competitive Progrmamming</a>
+  	<a href="#good-practices-in-competitive-programming">Good Practices in Competitive Programming</a>
   	<ul>
   	<li><a href="#optimizing-cin-cout">Optimizing cin & cout</a></li>
   	<li><a href="#the-use-of-templates">The use of Templates</a></li>
@@ -204,7 +204,7 @@ lli find(vector<lli> &v){
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Good Practices in Competitive Progrmamming
+## Good Practices in Competitive Programming
 
 ### Optimizing `cin` & `cout`
 
@@ -752,6 +752,8 @@ void dfs(long long pt, string s =""){
 
 <div>
 <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cpp"/>
+<img width="40px" height="40px" src="https://skillicons.dev/icons?i=py"/>
+
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
